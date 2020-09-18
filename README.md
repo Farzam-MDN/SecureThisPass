@@ -23,8 +23,9 @@ Now you need to download word lists for the tool to work as it is intended.
 You can download a word list from one of the word lists below . Alternatively, you can use any other word list you want.
 
 WORD LISTS (choose one):
-[Gwicks Dictionary ](http://www.gwicks.net/dictionaries.htm) (You can choose any language you want. In the website download the 'TEXT' file for language of your choice. You will then receive a zip file. Extract the zip file and rename the extracted text file to 'wordlist.txt')
-[mit word list ](https://www.mit.edu/~ecprice/wordlist.10000)(Copy and paste it in a text file then save it as 'wordlist.txt')
+
+[mit word list](https://www.mit.edu/~ecprice/wordlist.10000)(Copy and paste it in a text file then save it as 'wordlist.txt')
+
 [Oxford word list](https://raw.githubusercontent.com/gokhanyavas/Oxford-3000-Word-List/master/Oxford%203000%20Word%20List%20No%20Spaces.txt) (Copy and paste it in a text file then save it as 'wordlist.txt')
 
 Now place the 'wordlist.txt' in the SecureThisPass directory. Thereafter, open cmd/terminal in the same directory and run the following command.

@@ -49,7 +49,7 @@ py SecureThisPass.py
 ```
 
 Now the tool should prompt you to input a password you want to make more secure.
-In case you have a password fill the input field with the password and press enter. In case you don't have any password in mind leave the input field blank and press enter.
+In case you have a password, fill the input field with the password and press enter. In case you don't have any password in mind, leave the input field blank and press enter.
 The tool will now generate a secure password for you (either based on your provided password or totally from the scratch). You can now use the generated secure password wherever you want without any need to worry about its security! 
 
 Examples of a generated password:

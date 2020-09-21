@@ -37,7 +37,7 @@ py worldlistgenerator.py
 Now some new text files should be added to the SecureThisPass directory.
 The SecureThisPass directory on your machine should look something like the image below:
 
-![SecureThisPass Directory](https://i.imgur.com/mr3BWUI.png)
+![SecureThisPass Directory](https://i.imgur.com/yhT8TSF.png)
 
 
 ### Running the application 
